@@ -14,7 +14,7 @@
 - Node.js instalado (versão 12 ou superior).
 - Módulo prompt-sync instalado para entrada de dados no terminal.
 - Módulo crypto nativo do Node.js para operações de criptografia.
-- 
+  
 # Instalação
 - Certifique-se de ter o Node.js instalado em sua máquina. Se não tiver, baixe e instale do site oficial do Node.js.
 
