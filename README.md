@@ -1,4 +1,4 @@
-# Documentação do Projeto: Sistema de Gerenciamento de Senhas
+se# Documentação do Projeto: Sistema de Gerenciamento de Senhas
 ## Descrição do Projeto
 ### Este projeto é um sistema simples de gerenciamento de senhas desenvolvido em Node.js. Ele permite aos usuários realizar três operações principais:
 
@@ -10,7 +10,8 @@
 ## Estrutura do Projeto
 - senha.js: Arquivo principal que contém toda a lógica do programa.
 - senha.txt: Arquivo onde a senha criptografada é armazenada.
-- Pré-requisitos
+
+## Pré-requisitos
 - Node.js instalado (versão 12 ou superior).
 - Módulo prompt-sync instalado para entrada de dados no terminal.
 - Módulo crypto nativo do Node.js para operações de criptografia.
