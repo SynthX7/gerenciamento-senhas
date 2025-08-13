@@ -12,7 +12,7 @@ se# Documentação do Projeto: Sistema de Gerenciamento de Senhas
 - senha.txt: Arquivo onde a senha criptografada é armazenada.
 
 ## Pré-requisitos
-- Node.js instalado (versão 12 ou superior).
+- Node.js instalado (versão 22 ou superior).
 - Módulo prompt-sync instalado para entrada de dados no terminal.
 - Módulo crypto nativo do Node.js para operações de criptografia.
   
